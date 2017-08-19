@@ -11,6 +11,7 @@ sample/testb1/testb1			buildonly	defaults
 
 io/kqueue_1/kqueue_1			userland	defaults
 io/kqueue_2/kqueue_2			userland	defaults
+io/kqueue_3/kqueue_3			userland	defaults
 io/pselect_1/pselect_1			userland	defaults
 io/select_1/select_1			userland	defaults
 io/select_2/select_2			userland	defaults
